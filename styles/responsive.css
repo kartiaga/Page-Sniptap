@@ -1,0 +1,5 @@
+@media (width < 80rem) {
+  header.top {
+    padding-inline: 1.5rem;
+  }
+}
